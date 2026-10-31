@@ -5,6 +5,7 @@
 ## 文件说明
 
 - `hello_world.py` — 第一个程序
+- `hello.py` — pytorch环境测试程序
 
 ## 环境
 
